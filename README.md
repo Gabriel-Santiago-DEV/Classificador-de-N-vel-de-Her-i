@@ -26,3 +26,4 @@ Se XP for entre 9.001 e 10.000= Imortal<br>
 Se XP for maior ou igual a 10.001 = Radiante<br>
 
  <h2>Acesso ao projeto ⚔</H2>
+https://classificador-de-nivel-heroi.vercel.app/
